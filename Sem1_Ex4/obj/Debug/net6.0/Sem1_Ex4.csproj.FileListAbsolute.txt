@@ -1,0 +1,15 @@
+D:\Geek\IT-специалист\Введение в Git\Rep\Sem1_Ex4\obj\Debug\net6.0\Sem1_Ex4.csproj.AssemblyReference.cache
+D:\Geek\IT-специалист\Введение в Git\Rep\Sem1_Ex4\obj\Debug\net6.0\Sem1_Ex4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geek\IT-специалист\Введение в Git\Rep\Sem1_Ex4\obj\Debug\net6.0\Sem1_Ex4.AssemblyInfoInputs.cache
+D:\Geek\IT-специалист\Введение в Git\Rep\Sem1_Ex4\obj\Debug\net6.0\Sem1_Ex4.AssemblyInfo.cs
+D:\Geek\IT-специалист\Введение в Git\Rep\Sem1_Ex4\obj\Debug\net6.0\Sem1_Ex4.csproj.CoreCompileInputs.cache
+D:\Geek\IT-специалист\Введение в Git\Rep\Sem1_Ex4\bin\Debug\net6.0\Sem1_Ex4.exe
+D:\Geek\IT-специалист\Введение в Git\Rep\Sem1_Ex4\bin\Debug\net6.0\Sem1_Ex4.deps.json
+D:\Geek\IT-специалист\Введение в Git\Rep\Sem1_Ex4\bin\Debug\net6.0\Sem1_Ex4.runtimeconfig.json
+D:\Geek\IT-специалист\Введение в Git\Rep\Sem1_Ex4\bin\Debug\net6.0\Sem1_Ex4.dll
+D:\Geek\IT-специалист\Введение в Git\Rep\Sem1_Ex4\bin\Debug\net6.0\Sem1_Ex4.pdb
+D:\Geek\IT-специалист\Введение в Git\Rep\Sem1_Ex4\obj\Debug\net6.0\Sem1_Ex4.dll
+D:\Geek\IT-специалист\Введение в Git\Rep\Sem1_Ex4\obj\Debug\net6.0\refint\Sem1_Ex4.dll
+D:\Geek\IT-специалист\Введение в Git\Rep\Sem1_Ex4\obj\Debug\net6.0\Sem1_Ex4.pdb
+D:\Geek\IT-специалист\Введение в Git\Rep\Sem1_Ex4\obj\Debug\net6.0\Sem1_Ex4.genruntimeconfig.cache
+D:\Geek\IT-специалист\Введение в Git\Rep\Sem1_Ex4\obj\Debug\net6.0\ref\Sem1_Ex4.dll
